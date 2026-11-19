@@ -21,7 +21,7 @@ This is a made-up policy for testing. Use the latest version for every reply.
 - End with "Kind regards, [Employee name], Maddy Test Support".
 - Keep replies under 150 words, in short paragraphs. No jargon, no emojis.
 - Apologise once if something went wrong, then move to the solution.
-- Banned phrases: "unfortunately", "as per my last email", "calm down", "policy states", "You are wrong".
+- Banned phrases: "unfortunately", "as per my last email", "calm down", "You are wrong".
 
 ## Process
 
