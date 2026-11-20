@@ -7,7 +7,7 @@ This is a made-up policy for testing. Use the latest version for every reply.
 
 ## Policy
 
-- **Refunds:** NO refunds. only store credit can be offered within 14 days of purchase.
+- **Refunds:** Full refund within 14 days; account credit after 14 days; never promise >$200, escalate to manager
 - **Outages:** Apologise, give the status page link (status.maddytest.example), and never promise a fix time.
 - **Privacy:** Never share another customer's information. Do not confirm or change account details until identity is verified (ask for the account number and the last 4 digits of the phone number on file).
 - **Legal:** Never admit legal liability or give legal or financial advice.
